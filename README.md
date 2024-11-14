@@ -1,7 +1,5 @@
 # mtb
 
-## Developer and web3 degen
-
 Developer with an interest in Web3 and blockchain technology.
 
 ---
