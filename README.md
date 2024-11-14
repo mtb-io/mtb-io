@@ -1,8 +1,8 @@
-# I am mtb
+# mtb
 
-## 🚀 Developer
+## Developer and web3 degen
 
-I'm a passionate developer focused on creating clean, user-friendly solutions. I love building web applications and exploring new technologies.
+Developer with an interest in Web3 and blockchain technology.
 
 ---
 ⭐️ From [mtb-io](https://github.com/mtb-io)
